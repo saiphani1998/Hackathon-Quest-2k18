@@ -18,9 +18,6 @@
     src: url(../font/ArtBrewery.ttf);
 }
 
-body {
-	width: fit-content;
-}
 /* width */
 ::-webkit-scrollbar {
     width: 12px;
